@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "and api to grab a screenshot of a webpage, return an image",
   "main": "app.js",
+  "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/panzerstadt/tut-phantomjs-api/issues"
   },
-  "homepage": "https://github.com/panzerstadt/tut-phantomjs-api#readme"
+  "homepage": "https://github.com/panzerstadt/tut-phantomjs-api#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "phantom": "^4.0.12",
+    "pug": "^2.0.0"
+  }
 }
