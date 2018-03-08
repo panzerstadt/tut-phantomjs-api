@@ -1,0 +1,19 @@
+{
+  "name": "phantomjs-screenshot-api",
+  "version": "1.0.0",
+  "description": "and api to grab a screenshot of a webpage, return an image",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panzerstadt/tut-phantomjs-api.git"
+  },
+  "author": "tlq",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/panzerstadt/tut-phantomjs-api/issues"
+  },
+  "homepage": "https://github.com/panzerstadt/tut-phantomjs-api#readme"
+}
